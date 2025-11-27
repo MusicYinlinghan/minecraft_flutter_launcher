@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\lib"
+    "\\lib",
+    "\\windows"
   ],
-  "SelectedNode": "\\lib\\main.dart",
+  "SelectedNode": "\\windows\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
