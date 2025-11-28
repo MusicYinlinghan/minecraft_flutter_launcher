@@ -1,4 +1,4 @@
-# minecraft_flutter_launche
+# minecraft_flutter_launcher
 
 A new Flutter project.
 
