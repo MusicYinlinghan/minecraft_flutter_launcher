@@ -104,5 +104,3 @@ class GameList {
     }
   }
 }
-
-class game_list {}
