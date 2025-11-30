@@ -104,8 +104,3 @@ class GameList {
     }
   }
 }
-<<<<<<< HEAD
-=======
-
-class Game_List {}
->>>>>>> 0d00b0ecdaa2c83d94a97dc76d5ed8dd828d9b7f

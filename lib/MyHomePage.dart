@@ -38,7 +38,7 @@ class MyHomePage extends StatelessWidget {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => gameDownloadPage()),
+                  MaterialPageRoute(builder: (context) => GameDownloadPage()),
                 );
               },
             ),
