@@ -40,7 +40,10 @@ class MyHomePage extends StatelessWidget {
             ListTile(
               title: Text('Home'),
               onTap: () {
-                Navigator.pop(context);
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => MyHomePage()),
+                );
               },
             ),
             ListTile(
