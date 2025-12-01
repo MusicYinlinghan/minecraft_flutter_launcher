@@ -10,9 +10,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Minecraft Launcher', 
-    home: MyHomePage()
-    );
+    return MaterialApp(title: 'Minecraft Launcher', home: MyHomePage());
   }
 }
